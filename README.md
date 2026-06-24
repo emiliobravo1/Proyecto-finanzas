@@ -1,0 +1,1 @@
+Este proyecto automatiza la extracción, análisis y comparación de rendimiento de distintos instrumentos financieros (como el índice estadounidense NASDAQ-100 y fondos mutuos locales). Utilizando Python, el script conecta con distintas APIs, cruza los datos históricos y normaliza los precios a Base 100 para visualizar el crecimiento real del capital de forma equitativa.
